@@ -4,7 +4,7 @@
 🚀 I'm passionate about coding , web development, Graphic design.  <br>
 🚀 I'm currenty on my way  to becoming a full-stack web developer  <br>
 🌐 Contact with me <br>
-Facebook: https://www.facebook.com/profile.php?id=100080299662015 <br>
+Facebook: https://www.facebook.com/abdirisak.maxamed <br>
 
 
 # 💻 Tech Stack:
